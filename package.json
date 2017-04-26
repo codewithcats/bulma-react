@@ -1,0 +1,23 @@
+{
+  "name": "@mumu/bulma-react",
+  "version": "0.1.0",
+  "description": "React components with Bulma styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithcats/bulma-react.git"
+  },
+  "keywords": [
+    "React",
+    "Bulma"
+  ],
+  "author": "Tanawat Tassana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithcats/bulma-react/issues"
+  },
+  "homepage": "https://github.com/codewithcats/bulma-react#readme"
+}
